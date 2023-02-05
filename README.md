@@ -35,6 +35,11 @@ jpa와 spring을 사랑하여 심도있게 공부하고 있으며, 현업에서 
 
 👉 https://www.aenogifolio.ga/
 
+#
+
+####
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hykqo&show_icons=true&theme=radical)
+
 
 <!--
 - 🔭 I’m currently working on ...
