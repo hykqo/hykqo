@@ -7,9 +7,9 @@ jpa와 spring을 사랑하여 심도있게 공부하고 있으며, 현업에서 
 
 💪 제가 서비스 구현에 주로 사용하는 스택은 아래와 같아요.
 
-👉 <b>'개발'</b>에는 주로 JPA, SpringBoot, JavaScript, Thymeleaf를 사용해서 개발을 하고 있습니다.
+👉 <b>'개발'</b>에는 주로 JPA, SpringBoot, JavaScript, Thymeleaf를 사용해서 개발을 하고 있습니다.(이 외에도 Vue3, myBatis, 전자정부프레임워크로 유지보수중인 서비스가 있습니다.)
 
-👉 <b>'배포'</b>에는 주로 Docker를 사용해서 배포/관리를 하고 있습니다.
+👉 <b>'CI/CD는'</b> 모놀로틱 아키턱처와 MSA아키텍처 전부 구현할 줄 압니다.
 
 👉 <b>'형상관리'</b>와 <b>'프로젝트 관리'</b>에는 Git, GitHub, SourceTree, Jira, Confluence를 사용해서 관리하고 있습니다.
 
