@@ -35,6 +35,13 @@ jpa와 spring을 사랑하여 심도있게 공부하고 있으며, 현재 다양
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=Hibernate&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/>
 
+##### DB
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+
+
+
 ##### DevOps
 <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat"/>
@@ -43,8 +50,6 @@ jpa와 spring을 사랑하여 심도있게 공부하고 있으며, 현재 다양
 <img src="https://img.shields.io/badge/haproxy--ingress-green&style=flat"/>
 <img src="https://img.shields.io/badge/Grafana-F2F4F9?logo=grafana&logoColor=orange&labelColor=F2F4F9&style=flat"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white&style=flat"/>
-
-
 
 
 
