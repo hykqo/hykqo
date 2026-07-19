@@ -59,7 +59,7 @@ jpa와 spring을 사랑하여 심도있게 공부하고 있으며, 현재 다양
 
 🔗 현업에서 기획/개발에 참여한 프로젝트는 아래 링크에서 확인이 가능합니다.
 
-👉 https://www.aenogifolio.ga/
+👉 [노션 링크 클릭](https://app.notion.com/p/3933ce437f7480fba3eaf5c470ef76b3?source=copy_link)
 
 #
 
